@@ -1,4 +1,4 @@
-## An Individualist Account of the Social World
+## A Thesis in the Social Sciences and Philosophy
 
 This thesis, *An Individualist Account of the Social World*, introduces a comprehensive English-based framework for describing the social world (and our social intereactions therein) in a precise and unambiguous way. 
 
