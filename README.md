@@ -9,4 +9,7 @@ In this Chapter, I take a stance on an existing philosophical controversy of col
 This Chapter introduces the problems and challenges that my framework, dubbed the MR-N (Motivating Reason-Norm) framework, is designed to overcome. 
 
 ### Chapter 3 - 5
-The MR-N framework is discussed. 
+The MR-N framework is presented in detail. 
+
+### Chapter 6 - 9
+These chapters concern a series of applications for the MR-N framework and a series of arguments for singularism against collectivism. 
