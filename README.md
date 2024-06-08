@@ -1,6 +1,6 @@
 ## A Thesis in the Social Sciences and Philosophy
 
-This thesis, *An Individualist Account of the Social World*, introduces a comprehensive English-based framework for describing the social world (and our social intereactions therein) in a precise and unambiguous way. 
+The thesis titled, *An Individualist Account of the Social World*, introduces a comprehensive English-language framework that aims to describe our social world (and the myriad of social intereactions therein) in a precise and unambiguous way. 
 
 ### Chapter 1
 In this Chapter, I take a stance on an existing philosophical controversy. This Chapter can be skipped if you are not interested in this highly-specialized philsophical debate. 
