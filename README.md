@@ -1,7 +1,5 @@
 # A Thesis in the Social Sciences and Humanities
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 In my thesis, [*An Individualist Account of the Social World*](https://github.com/Weidsn/An-Individualist-Account-of-the-Social-World/blob/main/An%20Individualist%20Account%20of%20the%20Social%20World.pdf), I introduce a comprehensive English-language framework with the aim of describing our social world (and the myriad of social intereactions therein) in a precise and unambiguous way. This thesis is approximately 100 pages long. 
 
 ## Introduction
