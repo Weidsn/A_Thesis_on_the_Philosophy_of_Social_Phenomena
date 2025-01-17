@@ -13,7 +13,7 @@ I take a stance on an existing philosophical controversy of collectivism v.s. si
 I introduce key philosophical challenges that my framework, dubbed the MR-N framework, which stands for "motivating reasons" and "norm," is designed to overcome. 
 
 ## Chapter 3 - 5
-The MR-N framework is presented in detail. 
+The MR-N framework is presented. 
 
 ## Chapter 6 - 9
 I apply he MR-N framework to a number of interesting social scenarios. I also present my arguments in favour of singularism vis-a-vis collectivism. 
