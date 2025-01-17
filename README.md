@@ -8,7 +8,7 @@ A precise and unambiguious linguistic framework, which I consider to be a crucia
 
 Why not develop a comprehensive linguistic framework that does NOT make any unnecessary socially embedded assumptions, generic, much like the framework of mathematics, that any user can adapt and use for their own purpose? On the basis of this framework, philosophical discussions can preceed without having to first embark on a mini-project of tedious disambiguation. 
 
-This is where my ```MR-N framework``` comes in handy. Here, ```MR-N``` stands for ```Motivating Reasons``` and ```Norms```.
+This is where my MR-N framework comes in. Here, ```MR-N``` stands for ```Motivating Reasons``` and ```Norms```.
 
 ## Chapter 1
 I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
