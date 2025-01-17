@@ -6,10 +6,10 @@ In my thesis, [*An Individualist Account of the Social World*](https://github.co
 In this Chapter, I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
 
 ### Chapter 2
-Introduces the problems and challenges that my framework, dubbed the MR-N (Motivating Reason-Norm) framework, is designed to overcome. 
+Introduces key philosophical challenges that my framework, dubbed the MR-N (Motivating Reason-Norm) framework, is designed to overcome. 
 
 ### Chapter 3 - 5
 The MR-N framework is presented in detail. 
 
 ### Chapter 6 - 9
-Contain a series of applications for the MR-N framework and a series of arguments for singularism against collectivism. 
+In these chapters I apply he MR-N framework to a number of interesting social scenarios. I also present my arguments in favour of singularism vis-a-vis collectivism. 
