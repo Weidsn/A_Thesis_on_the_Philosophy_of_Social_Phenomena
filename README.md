@@ -11,7 +11,7 @@ Why not develop a comprehensive linguistic framework that does NOT make any unne
 This is where my MR-N framework comes in. Here, ```MR-N``` stands for ```Motivating Reasons``` and ```Norms```.
 
 ## Chapter 1
-I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
+For the purpose of this thesis, I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
 
 ## Chapter 2
 I introduce key philosophical challenges that the MR-N framework is designed to overcome. 
