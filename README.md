@@ -6,7 +6,9 @@ In my thesis, [*An Individualist Account of the Social World*](https://github.co
 
 A precise and unambiguious linguistic framework, which I consider to be a crucial driver of development and progress in the field of pure mathematics, is largely absent in the philosophy of social science. The unambiguosness of the language of mathematics, the language of proofs, has significantly reduced the cost of communication. In contrast, philosophers, in their attempts to capture the meanings of social concepts, such as 'responsibility,' have devised numerous isolated, domain-specific frameworks that often compete with one another. 
 
-Why not develop a comprehensive linguistic framework that does NOT make any unnecessary socially embedded assumptions, generic, much like the framework of mathematics, that any user can adapt and use for their own purpose? On the basis of this framework, philosophical discussions can preceed without having to first embark on a mini-project of tedious disambiguation. This is where my MR-N framework comes in. 
+Why not develop a comprehensive linguistic framework that does NOT make any unnecessary socially embedded assumptions, generic, much like the framework of mathematics, that any user can adapt and use for their own purpose? On the basis of this framework, philosophical discussions can preceed without having to first embark on a mini-project of tedious disambiguation. 
+
+This is where my MR-N framework comes in. 
 
 ## Chapter 1
 I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
