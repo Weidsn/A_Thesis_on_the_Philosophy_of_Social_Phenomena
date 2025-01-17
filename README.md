@@ -4,9 +4,9 @@ In my thesis, [*An Individualist Account of the Social World*](https://github.co
 
 ## Introduction
 
-A precise and unambiguious linguistic framework, which I consider to be a crucial driver of development and progress in the field of pure mathematics, is largely absent in the philosophy of social science. The unambiguosness of the language of mathematics, the language of proofs, has significantly reduced the cost of communication. 
+A precise and unambiguious linguistic framework, which I consider to be a crucial driver of development and progress in the field of pure mathematics, is largely absent in the philosophy of social science. The unambiguosness of the language of mathematics, the language of proofs, has significantly reduced the cost of communication. In contrast, philosophers, in their attempts to capture the meanings of social concepts, such as 'responsibility,' have devised numerous isolated, domain-specific frameworks that often compete with one another. 
 
-In contrast, philosophers, in attempts to capture the meanings of social concepts, such as the concept of "responsiblity," has devised numerious isolated, domain-specific frameworks that compete with one another. Why not develop a comprehensive linguistic framework, much like the language of mathematics, that does not make any unnecessary social assumptions, which any user can adapt to and use for their own purpose, on the basis which philosophical discussions can preceed without having to embark on a mini-project of tedious disambiguation? This is where my MR-N framework comes in. 
+Why not develop a comprehensive linguistic framework, much like the framework of mathematics, which does not make any unnecessary social assumptions, and which any user can adapt and use for their own purpose? On the basis of this framework, philosophical discussions can preceed without having to embark on a mini-project of tedious disambiguation. This is where my MR-N framework comes in. 
 
 ## Chapter 1
 I take a stance on an existing philosophical controversy of collectivism v.s. singularism. This Chapter can be skipped if you are not interested in (or are unfamilar with) this debate. 
