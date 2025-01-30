@@ -1,4 +1,4 @@
-# A Thesis in the Social Sciences and Humanities
+# A Thesis on the Philosophy of Social Phenomena
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
