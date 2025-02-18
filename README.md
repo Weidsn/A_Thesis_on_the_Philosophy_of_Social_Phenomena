@@ -14,7 +14,7 @@ A precise and unambiguous linguistic framework is crucial for the development an
 
 In this thesis, I aim to present a novel and comprehensive linguistic framework that does not make any unnecessary social or cultural assumptions, thus, allowing people from all backgrounds to adopt it for their own purposes. With such a framework in place, detailed discussions can proceed without having to first embark on a tedious sub-project of concept disambiguation, saving time and energy for the important matters. 
 
-This is where the MR-N framework comes in. Here, ```MR``` stands for ```Motivating Reasons``` and ```N``` stands for ```Norms```.
+I hereby introduce the `MR-N framework`, where `MR` stands for `Motivating Reasons` and `N` stands for `Norms`.
 
 ## Chapter 1
 For the purpose of satisfying thesis requirements, I take a stance on a philosophical debate between collectivism and singularism. The framework I present is singularist under this distinction. Chapter 1 can be skipped if you are not interested in this philosophical debate. 
