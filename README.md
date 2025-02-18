@@ -12,7 +12,7 @@ In my thesis, [*An Individualist Account of the Social World*](https://github.co
 
 A precise and unambiguous linguistic framework is crucial for the development and progress of pure mathematics. Such a framework, however, is largely unavailable to philosophers and social scientists. The precision and clarity of the language of mathematics—the language of proofs—have significantly reduced misunderstandings and the cost of communication among professionals. In contrast, the field of philosophy and social science is littered with numerous isolated, domain-specific frameworks, applicable only in limited settings and employed only by small groups of professionals. We typically call these "domain-specific jargons." 
 
-In this thesis, I aim to present a novel and comprehensive linguistic framework that does not make any unnecessary social or cultural assumptions, thus, allowing people from all backgrounds to adopt it for their own purposes, much like the framework of mathematics. With such a framework, philosophical discussions can proceed without first having to embark on a tedious sub-project of concept disambiguation, saving time and energy for the main topics. 
+In this thesis, I aim to present a novel and comprehensive linguistic framework that does not make any unnecessary social or cultural assumptions, thus, allowing people from all backgrounds to adopt it for their own purposes. With such a framework in place, detailed discussions can proceed without having to first embark on a tedious sub-project of concept disambiguation, saving time and energy for the main topics. 
 
 This is where the MR-N framework comes in. Here, ```MR``` stands for ```Motivating Reasons``` and ```N``` stands for ```Norms```.
 
