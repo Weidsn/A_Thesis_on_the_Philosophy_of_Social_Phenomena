@@ -6,7 +6,7 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-In my thesis, [*An Individualist Account of the Social World*](https://github.com/Weidsn/An-Individualist-Account-of-the-Social-World/blob/main/An%20Individualist%20Account%20of%20the%20Social%20World.pdf), I introduce a comprehensive linguistic framework with the aim of describing the entirety our social world (and the myriad of social concepts) in a precise and unambiguous way. This thesis is approximately 100 pages long. 
+In my thesis, [*An Individualist Account of the Social World*](https://github.com/Weidsn/An-Individualist-Account-of-the-Social-World/blob/main/An%20Individualist%20Account%20of%20the%20Social%20World.pdf), I introduce a comprehensive linguistic framework for describing the entirety our social world (and the myriad of social concepts) in a precise and unambiguous fashion. This thesis is approximately 100 pages long. 
 
 ## Introduction
 
